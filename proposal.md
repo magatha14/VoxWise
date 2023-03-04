@@ -40,6 +40,6 @@ Other helpful links:
 **Task 5 (Extra):** Convert Voxel mesh back to non-voxel mesh. This can be implemented using Marching Cube Algorithm.
 
 ## Expected Visual Deliverables
-![Voxel teapot](./assets/voxel-teapot.jpeg)
-![Voxel Car](./assets/voxel-car.png)
-![Voxel Skull](./assets/voxel-skull.png)
+<img src="./assets/voxel-teapot.jpeg"  width="600" height="300">
+<img src="./assets/voxel-car.png"  width="600" height="300">
+<img src="./assets/voxel-skull.png"  width="600" height="300">
