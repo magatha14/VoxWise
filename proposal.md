@@ -1,5 +1,7 @@
 # VoxWise
 
+[Link to this file on Github](https://github.com/magatha14/VoxWise/blob/main/proposal.md)
+
 ### Note to Instructors
 
 I will be working on the Shader assignment for the official final project that my partner and I didn't implement for Assignment 3. 
