@@ -41,5 +41,5 @@ Other helpful links:
 
 ## Expected Visual Deliverables
 <img src="./assets/voxel-teapot.jpeg"  width="600" height="300">
-<img src="./assets/voxel-car.png"  width="600" height="300">
-<img src="./assets/voxel-skull.png"  width="600" height="300">
+<img src="./assets/voxel-car.png"  width="500" height="300">
+<img src="./assets/voxel-skull.png"  width="550" height="300">
